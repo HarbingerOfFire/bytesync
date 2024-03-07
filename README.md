@@ -1,4 +1,12 @@
-# ByteSync
+<div style="color:red;">
+<pre>
+██████  ██    ██ ████████ ███████ ███████ ██    ██ ███    ██  ██████ 
+██   ██  ██  ██     ██    ██      ██       ██  ██  ████   ██ ██      
+██████    ████      ██    █████   ███████   ████   ██ ██  ██ ██      
+██   ██    ██       ██    ██           ██    ██    ██  ██ ██ ██      
+██████     ██       ██    ███████ ███████    ██    ██   ████  ██████ 
+</pre>
+</div>
 
 ByteSync is a lightweight command-line tool similar to Netcat, designed to facilitate the seamless transfer of files between two users over a network connection. Whether you're sharing documents, images, or any other type of file, ByteSync offers a straightforward and efficient way to synchronize data between systems.
 
